@@ -8,7 +8,6 @@ Click the button to generate a random mood, message, and background color. Each 
 
 [View Live Demo](https://palak150104.github.io/mood-generator-web-app/)
 
-> Replace the `#` with your GitHub Pages URL after deployment.
 
 ## 📸 Preview
 
